@@ -5,7 +5,6 @@ A production-ready financial data normalization agent built for AI pipelines. Ca
 **Network:** Base Mainnet (eip155:8453) — real USDC via Coinbase CDP
 **Price:** $0.002 USDC per call
 
-The Node.js version of the Financial Data Normalizer agent, running real USDC payments on Base mainnet via the Coinbase CDP facilitator.
 
 > For the testnet/Python version see: [niche-agent](https://github.com/your-username/niche-agent)
 
