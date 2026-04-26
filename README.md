@@ -164,6 +164,12 @@ Real USDC via Coinbase CDP facilitator. Any autonomous agent with a funded Base 
 
 ---
 
+## Smithery TXT Verification
+
+smithery-verification=9780678e60c249fc93cf6766f366c085f5d62d365207ea2a7229566fd41fdcc7
+
+---
+
 ## Relationship to Python Agent
 
 | | Python Agent | Node Agent (this) |
